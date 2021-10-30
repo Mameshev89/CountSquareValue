@@ -1,3 +1,5 @@
+package ru.netology.sqr;
+
 public class SQRService {
     public int countSquareValue(int lowLim, int uplim) {
         int count = 0;
